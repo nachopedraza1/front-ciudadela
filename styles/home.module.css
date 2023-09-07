@@ -1,0 +1,11 @@
+.background {
+    width: 100%;
+    min-height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-image: url('/background.png');
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
